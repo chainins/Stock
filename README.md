@@ -25,7 +25,7 @@ stock_Daubechies.py
 stock_Prophet.py
 stock_LSTM.py
 
-Easy to draw a graph by only 1 line.
+Based on my code, easy to draw a graph by only 1 line.
 ```python
 import stockDB as sd
 import stockMatrix as sm
